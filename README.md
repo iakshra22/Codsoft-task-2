@@ -19,7 +19,7 @@ A simple console-based To-Do List Manager built in C++ that allows users to add 
 
 ## ⚙️ How to Run  
 
-💻 On Local Machine:  
+💻 On Local Machine:
 
 1. Clone the repository:  
    git clone https://github.com/iakshra22/Codsoft-task-2/blob/main/todolist.cpp  
